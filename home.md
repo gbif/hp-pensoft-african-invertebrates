@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: African Invertebrates
+description: Browse data on GBIF associated with publications in African Invertebrates
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Midgley J, Bellingan T, Jordaens K (2023) A revision of the hover fly genus _Amphoterus_ Bezzi, 1915 (Diptera, Syrphidae) with the description of one new species. In: Dikow T, Williams K, Midgley J (Eds) Festschrift for Jason Gilbert Hayden Londt. African Invertebrates 64(2): 149-163. [https://doi.org/10.3897/afrinvertebr.64.100481](https://doi.org/10.3897/afrinvertebr.64.100481)"
 height: 75vh
 cta:
   - text: Datasets
